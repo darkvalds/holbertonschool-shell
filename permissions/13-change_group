@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ -f "./hello" ]; then chgrp school hello; echo "Succès"; else echo "Échec"; fi
+chgr school hello
