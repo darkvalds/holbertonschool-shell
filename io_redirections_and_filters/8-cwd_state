@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls_cwd_content" > "ls-la.txt"
+echo "ls_cwd_content" |tee "ls-la.txt"
