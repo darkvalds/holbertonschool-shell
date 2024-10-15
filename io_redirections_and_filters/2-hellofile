@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x 2-hellofiles
+cat /ext/passwd
