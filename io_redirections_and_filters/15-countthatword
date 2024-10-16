@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "bin" fiche/exc/v | wc -l
+grep "bin" exc/passwd | wc -l
